@@ -1,0 +1,24 @@
+# 英语单词记忆小程序 - 依赖说明
+# =====================================
+#
+# 本程序使用Python标准库，无需额外安装第三方包
+# 只需安装Python 3.6或更高版本即可运行
+#
+# 必需组件:
+# -----------
+# Python 3.6+      - 程序运行环境 (tkinter GUI库已内置)
+#
+# 安装步骤:
+# -----------
+# 1. 下载并安装Python: https://www.python.org/downloads/
+#    (安装时请勾选 "Add Python to PATH")
+#
+# 2. 验证安装: 打开命令行输入
+#    python --version
+#
+# 3. 运行程序: 双击 start.bat 或命令行输入
+#    python vocab_trainer.py
+#
+# =====================================
+# 注: tkinter为Python标准库，通常随Python一起安装
+# 如遇"No module named tkinter"，请重新安装Python并选择完整安装
